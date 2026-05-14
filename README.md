@@ -18,7 +18,7 @@ We built a production-ready offline AI platform where **one smartphone running G
 
 ## 🧠 How It Works
 - **One smartphone (the brain)** runs Gemma 4 2B/4B models entirely offline.
-- **Dozens of E‑Ink cards (the window)** connect via Bluetooth mesh (50‑100 cards per phone, ~30m range).
+- **Dozens of E‑Ink cards (the window)** connect via Bluetooth mesh (5‑1000 cards per phone, ~30m range - each card).
 - **Qi wireless powers the cards** – no batteries, no maintenance.
 - **The card shows a glanceable green/yellow/red health readiness score**. Staff see the colour from across the room – no private data is transmitted.
 - **Gemma 4 performs** real‑time health inference (HR, HRV, temp), wound assessment via camera, voice concierge in 140+ languages, and contextual advertising – all offline.
