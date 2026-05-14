@@ -11,7 +11,7 @@ We built a production-ready offline AI platform where **one smartphone running G
 **Live deployment on EkoKat superyachts** shows early detection of heat stress/dehydration could reduce medical evacuations at sea by ~40%. Combined with >99% energy savings vs. cloud AI, this is sovereign, sustainable, resilient AI.
 
 ## 🎬 Demo Video
-▶️ [https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+▶️(https://www.youtube.com/watch?v=3uap_fkUEDE)
 (*Replace with your 3‑minute master video URL*)
 
 > 📌 **View all supporting clips on our YouTube channel**: [https://www.youtube.com/@aitrustcards](https://www.youtube.com/@aitrustcards)
