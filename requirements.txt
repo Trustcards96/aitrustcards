@@ -1,0 +1,12 @@
+# requirements.txt
+# Dependencies for AI Trust Card + Gemma 4 demo
+
+# Bluetooth communication (use appropriate package for your platform)
+bleak>=0.21.0           # Cross-platform BLE (Windows/Linux/macOS)
+# bluepy>=1.3.0         # Alternative for Linux (uncomment if needed)
+
+# Optional: for Gemma 4 integration (if using MLX or other local runner)
+# mlx>=0.10.0
+# torch>=2.0.0
+
+# No other dependencies required for the core health inference demo
