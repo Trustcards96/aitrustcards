@@ -74,12 +74,12 @@ We built a production-ready offline AI platform where **one smartphone running G
 2. **Install dependencies**  
    `pip install -r requirements.txt` *(see below for Python example)*
 3. **Run the health inference demo**  
-   `python ai-trust-card.py`
+   `aitrustcards.py`
 4. **Adapt the code to your own Gemma 4 deployment** – replace the placeholder inference with your actual model integration.
 
 ## 📁 Repository Structure
 aitrustcards/
-├── ai-trust-card.py # Main demo – health inference + RAG + E‑Ink update
+├── aitrustcards.py # Main demo – health inference + RAG + E‑Ink update
 ├── requirements.txt # Python dependencies
 └── README.md # This file
 
